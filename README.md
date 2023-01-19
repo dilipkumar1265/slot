@@ -124,10 +124,10 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](./out.png)
+![ OUTPUT](http://dilipkumar.student.saveetha.in:8000/static/images/out.png?raw=true)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](./valid.png)
+![HTML VALIDATOR](http://dilipkumar.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
 # RESULT 
 The program is executed successfully
